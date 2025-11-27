@@ -1,4 +1,7 @@
-format: jb-book
+# _config.yml
+title: "My Jupyter Book"
+author: "Your Name"
+
 root: notebooks/intro.ipynb
 
 chapters:
