@@ -4,6 +4,11 @@ author: Aadi, Jochem, Raul, Victor
 execute:
   execute_notebooks: "auto"
 
+repository:
+  url: "https://github.com/jjhvandervliet/test_project"
+  branch: "main"
+  path_to_book: "book/"
+
 html:
   favicon: "figures/favicon.ico"
   baseurl: ""
