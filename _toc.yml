@@ -1,4 +1,3 @@
-
 format: jb-book
 title: "My Jupyter Book"
 author: "Your Name"
@@ -6,9 +5,12 @@ author: "Your Name"
 root: intro.md
 
 chapters:
-  - file: notebooks/intro.ipynb
+  - file: notebooks/Intro.ipynb
   - file: notebooks/chapter1.ipynb
   - file: notebooks/chapter2.ipynb
   - file: notebooks/chapter3.ipynb
   - file: notebooks/chapter4.ipynb
   - file: notebooks/chapter5.ipynb
+
+options:
+  numbered: true
