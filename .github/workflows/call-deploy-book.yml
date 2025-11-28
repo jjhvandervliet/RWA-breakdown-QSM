@@ -4,13 +4,12 @@ on:
   push:
     branches:
       - "**"
-    # If your git repository has the Jupyter Book within some-subfolder next to
-    # unrelated files, you can make this run only if a file within that specific
-    # folder (or the workflow file itself) has been modified.
-    #
     paths:
-      - book/**
-      - .github/workflow/call-deploy-book.yml
+      - book/_config.yml
+      - book/_toc.yml
+      - book/intro.md
+      - book/notebooks/**
+      - .github/workflows/call-deploy-book.yml
   workflow_dispatch:
 
 jobs:
