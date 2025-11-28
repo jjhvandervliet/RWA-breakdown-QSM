@@ -1,4 +1,5 @@
-# _config.yml
+
+format: jb-book
 title: "My Jupyter Book"
 author: "Your Name"
 
