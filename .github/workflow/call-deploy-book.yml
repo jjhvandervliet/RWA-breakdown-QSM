@@ -10,7 +10,7 @@ on:
     #
     paths:
     - book/**
-    - .github/workflows/call-deploy-book.yml
+    - .github/workflow/call-deploy-book.yml
   workflow_dispatch:
 
 jobs: 
