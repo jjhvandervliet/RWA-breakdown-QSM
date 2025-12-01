@@ -8,10 +8,22 @@ git+https://github.com/TeachBooks/TeachBooks-Favourites
 git+https://github.com/TeachBooks/Sphinx-NB-Execution-Patterns
 
 # jupyterbook-patches
-numpy
-scipy
 ipywidgets
 matplotlib
+jupyter-book
+#ipykernel<5.5.0
+pathlib
+nbconvert<6.0.0
+# plotly
+scipy
+jupytext
+python-markdown-math
+mkdocs-material<5
+ics
+notedown
+qutip
+ipython
+
 
 # # docutils version for reference page formatting
 # docutils==0.17.1
