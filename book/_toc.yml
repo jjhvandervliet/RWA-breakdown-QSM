@@ -4,11 +4,7 @@ root: intro.md
 title: Introduction
 
 parts:
-  - caption: "Introduction"
-    chapters:
-      - file: intro.md
-
-  - caption: "Theorie"
+  - caption: "Theory"
     chapters:
       - file: notebooks/Intro.ipynb
       - file: notebooks/chapter1.ipynb
