@@ -18,7 +18,7 @@ html:
   use_edit_page_button: true
   use_repository_button: true
   extra_navbar: "" # Will be displayed underneath the left navbar. This setting overrides the default 'powered by Jupyter Book'
-  
+
   theme: sphinx_book_theme
 
 sphinx:
@@ -26,6 +26,7 @@ sphinx:
     # LIST THE NOTEBOOKS YOU WANT TO EXECUTE DURING BUILD
     nb_execution_includepatterns:
       - "notebooks/intro.ipynb"
+      - "notebooks/tlsJNCsim.ipynb"
       - "notebooks/chapter1.ipynb"
       - "notebooks/chapter2.ipynb"
       - "notebooks/chapter3.ipynb"
@@ -72,9 +73,7 @@ parse:
     - replacements
     - smartquotes
     - substitution
-  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
-
-
+  myst_dmath_double_inline: true # Allow display math ($$) within an inline context
 
 bibtex_bibfiles:
   - references.bib

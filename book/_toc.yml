@@ -7,10 +7,10 @@ parts:
     chapters:
       - file: notebooks/Intro.ipynb
       - file: notebooks/chapter1.ipynb
-  - caption: part 2
+      - file: notebooks/tlsJNCsim.ipynb
+  - caption: "Part2"
+    chapters:
       - file: notebooks/chapter2.ipynb
       - file: notebooks/chapter3.ipynb
       - file: notebooks/chapter4.ipynb
       - file: notebooks/chapter5.ipynb
-
-
