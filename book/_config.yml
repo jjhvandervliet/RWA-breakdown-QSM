@@ -46,7 +46,7 @@ sphinx:
       use_issues_button: true
 
       launch_buttons:
-        thebe: true
+        thebe: false
 
     html_last_updated_fmt: "%B %-d, %Y"
     html_show_copyright: false
