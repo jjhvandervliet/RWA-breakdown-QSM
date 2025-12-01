@@ -12,8 +12,13 @@ repository:
 html:
   favicon: "figures/favicon.ico"
   baseurl: ""
-  use_issues_button: true
+  # use_issues_button: true
+  # use_repository_button: true
+
+  use_edit_page_button: true
   use_repository_button: true
+  extra_navbar: "" # Will be displayed underneath the left navbar. This setting overrides the default 'powered by Jupyter Book'
+  
   theme: sphinx_book_theme
 
 sphinx:
