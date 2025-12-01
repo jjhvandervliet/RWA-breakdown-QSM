@@ -3,14 +3,14 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: "Part"
+  - caption: "Part1"
     chapters:
       - file: notebooks/Intro.ipynb
       - file: notebooks/chapter1.ipynb
+  - caption: part 2
       - file: notebooks/chapter2.ipynb
       - file: notebooks/chapter3.ipynb
       - file: notebooks/chapter4.ipynb
       - file: notebooks/chapter5.ipynb
 
-options:
-  numbered: true
+
