@@ -15,6 +15,7 @@ parts:
   - caption: "Rotating Wave Analysis"
     chapters:
       - file: notebooks/rwa.ipynb
+      - file: notebooks/eigenstates.ipynb
       - file: notebooks/chapter2.ipynb
       - file: notebooks/chapter3.ipynb
       - file: notebooks/chapter4.ipynb

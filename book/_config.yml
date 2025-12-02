@@ -28,6 +28,7 @@ sphinx:
       - "notebooks/intro.ipynb"
       - "notebooks/Theory.ipynb"
       - "notebooks/rwa.ipynb"
+      - "notebooks/eigenstates.ipynb"
       - "notebooks/tlsJNCsim.ipynb"
       - "notebooks/chapter1.ipynb"
       - "notebooks/chapter2.ipynb"
