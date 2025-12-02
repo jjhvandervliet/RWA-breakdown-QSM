@@ -1,32 +1,29 @@
-# first list the packages you wish to download from PyPI
-teachbooks # depends on jupyter-book
+jupyter-book
+qutip
+numpy
+scipy
+plotly
+matplotlib
+ipython
+pathlib
+jupytext
+notedown
 
-sphinx-tudelft-theme
 git+https://github.com/TeachBooks/TeachBooks-Favourites
-
-#testing for dennis
 git+https://github.com/TeachBooks/Sphinx-NB-Execution-Patterns
 
-# jupyterbook-patches
-ipython-genutils
 ipywidgets
-matplotlib
-jupyter-book
-#ipykernel<5.5.0
-pathlib
-nbconvert<6.0.0
-# plotly
-scipy
-jupytext
+jupyterlab-widgets
+jupyter-sphinx
+ipython-genutils
+
+sphinx-tudelft-theme
 python-markdown-math
 mkdocs-material<5
-ics
-notedown
-qutip
-ipython
-plotly
-jupyter-sphinx
-jupyterlab-widgets
+
+Jinja2<3.1
+sphinx<5.0
+nbconvert<6.0.0
 
 # # docutils version for reference page formatting
 # docutils==0.17.1
