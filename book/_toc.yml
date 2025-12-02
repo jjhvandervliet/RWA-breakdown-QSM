@@ -22,3 +22,5 @@ parts:
   - caption: "Conclusions"
     chapters:
       - file: notebooks/chapter5.ipynb
+references:
+  bibfile: references.bib
