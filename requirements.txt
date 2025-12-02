@@ -8,6 +8,7 @@ git+https://github.com/TeachBooks/TeachBooks-Favourites
 git+https://github.com/TeachBooks/Sphinx-NB-Execution-Patterns
 
 # jupyterbook-patches
+ipython-genutils
 ipywidgets
 matplotlib
 jupyter-book
