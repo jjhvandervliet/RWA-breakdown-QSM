@@ -53,17 +53,17 @@ sphinx:
 
     html_last_updated_fmt: "%B %-d, %Y"
     html_show_copyright: false
-
-  extensions:
+    
+    extensions:
     - sphinxcontrib.bibtex
-
+    
+    bibtex_bibfiles:
+    - references.bib
+  
   extra_extensions:
     - teachbooks_favourites
     - sphinx_tudelft_theme
     - sphinx_nb_execution_patterns
-  
-  bibtex_bibfiles:
-    - references.bib
 
 parse:
   myst_enable_extensions:
