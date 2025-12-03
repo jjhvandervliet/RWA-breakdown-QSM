@@ -23,6 +23,8 @@ html:
 
 sphinx:
   config:
+    use_multitoc_numbering: false
+    
     extensions:
       - sphinxcontrib.bibtex
       - sphinx_thebe
