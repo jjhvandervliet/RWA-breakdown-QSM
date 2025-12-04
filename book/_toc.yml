@@ -7,8 +7,8 @@ parts:
   - caption: "Theory"
     chapters:
       # - file: notebooks/Intro.ipynb   #empty
-      # - file: notebooks/Theory.ipynb
-      - file: notebooks/Theory.md
+      - file: notebooks/Theory.ipynb
+      # - file: notebooks/Theory.md
       # - file: notebooks/chapter1.ipynb   #empty
       # - file: notebooks/tlsJNCsim.ipynb   #Old
       #   title: "TLS JNC Simulation"
