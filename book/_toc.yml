@@ -25,9 +25,9 @@ parts:
   - caption: "Conclusions"
     chapters:
       - file: notebooks/conclusion.ipynb #empty
-  - caption: "authors contributions"
+  - caption: "Authors Contributions"
     chapters:
-      - file: autheurs.md
-  - caption: "references"
+      - file: notebooks/autheurs.md
+  - caption: "References"
     chapters:
-      - file: ref.md
+      - file: notebooks/ref.md
