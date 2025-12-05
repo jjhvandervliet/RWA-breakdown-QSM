@@ -34,3 +34,7 @@ Johansson, J. R. (2024).
 *Lecture notes on the Jaynes–Cummings model with ultrastrong coupling*.
 QuTiP.
 (https://github.com/jrjohansson/qutip-lectures/blob/master/Lecture-1-Jaynes-Cumming-model.ipynb)
+
+De Chiara, G. (2018).
+Reconciliation of quantum local master equations with thermodynamics.
+*New Journal of Physics, 20*, 3 - 4.
