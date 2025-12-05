@@ -9,3 +9,5 @@ As the hamiltonian is the observable for energy, we will explore how the energy 
 - The difference in eigenenergies for increasing decoupling
 - Changes in the wigner function of the ground state and the corresponding \(x\) and \(p\) distrubutions
 - How the RWA deviates of the RWA using the Lindblad master equation
+
+AI Usage Policy : We have used AI to help with markdown formatting and improving our plots / animations.
